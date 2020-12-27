@@ -15,8 +15,8 @@ sections:
 - type: document
   path: _config.yml
   label: Configuration
-upload_dir: img
-public_path: "/img"
+upload_dir: img/forestry
+public_path: http://get-base.com.s3-website-us-east-1.amazonaws.com
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
